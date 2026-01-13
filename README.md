@@ -45,4 +45,11 @@ vos$ python3 cvos.py --help
 │ mv      Move node to newNode, if newNode is a container then move   │
 │         node into newNode.                                          │
 ╰─────────────────────────────────────────────────────────────────────╯
+
+python3 cvos.py ls vos://<canfar-node>/*.fits
+image1.fits
+image2.fits
+image3.fits
+
+
 ```
